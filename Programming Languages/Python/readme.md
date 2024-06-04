@@ -19,17 +19,26 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Data Science and Machine Learning](#data-science-and-machine-learning)<br>
    - [Automation with Python](#automation-with-python)<br>
 - [Tools](#tools)<br>
-  - [Online Interpreters/Compilers](#online-interpreters)
- 
+   - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)<br>
+   - [Online Interpreters/Compilers](#online-interpreters)<br>
 - [Technologies](#technologies)<br>
-- [Free Courses](#free-courses)<br>
-- [Paid Courses](#paid-courses)<br>
+- [Courses](#courses)<br>
+   - [Free Courses](#free-courses)<br>
+   - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
+- [Python Projects](#python-projects)
+  - [Beginner Level Projects](#beginner-level-projects)
+  - [Intermediate Level Projects](#intermediate-level-projects)
+  - [Advance Level Projects](#advance-level-projects)
+- [Interview Preparations](#interview-preparation)
 - [Youtube Channels](#youtube-channels)<br>
 - [Python Projects](#python-projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
+- [YouTube Playlists](#youtube-playlist)
+- [Conclusion](#conclusion)
+
 
 ## Roadmap
 
@@ -334,7 +343,7 @@ Automate repetitive tasks with Python using these useful resources.
 ## Tools
 
 >Discover a wide variety of tools essential for Python Development. They are listed below:
-
+#### Integrated Development Environment (IDE) 
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -398,11 +407,11 @@ Automate repetitive tasks with Python using these useful resources.
 ## Technologies
 #### Online Interpreters
 
-> These online python Interpreters help you to run python code online in your browser:
+> These online Python interpreters help you to run python code online in your browser:
 
 <table width="100%">
       <tr>
-        <th>Channel Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -434,7 +443,7 @@ Automate repetitive tasks with Python using these useful resources.
 
 <table width="100%">
       <tr>
-        <th>Technology</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -470,10 +479,10 @@ Automate repetitive tasks with Python using these useful resources.
         <td>Framework for web scraping that provides tools to extract data from websites, process them, and store them in the desired format.</td>
       </tr>
   </table>
-
-  ## Free Courses
-
-> You can consider these free courses for learning Python :
+  
+### Courses
+> You can consider these courses for learning Python :
+  #### Free Courses
 
 <table width="100%">
       <tr>
@@ -490,9 +499,7 @@ Automate repetitive tasks with Python using these useful resources.
      
   </table>
 
-  ## Paid Courses
-
-> You can consider these paid courses for learning App Development:
+  #### Paid Courses
 
 <table width="100%">
       <tr>
@@ -518,27 +525,123 @@ Automate repetitive tasks with Python using these useful resources.
 
 <table width="100%">
       <tr>
-        <th>Book</th>
+        <th>Resource Name</th>
         <th>Description</th>
+         <th>Cost</th>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280">Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes</a></td>
         <td>Introduces Python through practical projects and exercises, ideal for beginners and those transitioning from other languages.</td>
+          <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho</a></td>
         <td>Explores Python's advanced features and best practices for writing clear, idiomatic code.</td>
+           <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989">Effective Python: 90 Specific Ways to Write Better Python by Brett Slatkin</a></td>
         <td>Offers practical advice and tips to improve your Python code and programming skills.</td>
+           <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057">Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas</a></td>
         <td>Covers essential tools and techniques for data manipulation, visualization, and analysis using Python.</td>
+           <td>Paid</td>
       </tr>
-  </table>
-<head>
+</table>
+
+### Python Projects
+> Python Projects which can help you to enhance your development skills and build your resumes.
+
+### Beginner Level Projects
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/python-program-implement-rock-paper-scissor-game/">Rock Paper Scissor Game</a></td>
+    <td>In this game, the user gets the first chance to pick the option between Rock, paper, and scissors. After the computer select from the remaining two choices(randomly), the winner is decided as per the rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/get-live-weather-desktop-notifications-using-python/">Live Weather Updates App</a></td>
+    <td>A simple Python script to show the live update for Weather information.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/">Countdown Timer</a></td>
+    <td>The code will take input from the user regarding the length of the countdown in seconds. After that, a countdown will begin on the screen of the format ‘minutes: seconds’. </td>
+  </tr>
+
+</table>
+
+### Intermediate Level Projects
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/">Twitter Bot</a></td>
+    <td>Python can be used to develop an automatic Twitter bot that can do many tasks by its own such as retweets,likes, follow and DMs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/file-sharing-app-using-python/">File Sharing App</a></td>
+    <td>A simple file-sharing app using Python using its in-built packages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/corona-helpbot/">Corona HelpBot</a></td>
+    <td>This is a chatbot that will give answers to most of your corona-related questions/FAQ. The chatbot will give you answers from the data given by WHO(https://www.who.int/).</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/hotel-management-system/">Hotel Management System</a></td>
+    <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
+  </tr>
+</table>
+  
+### Advance Level Projects
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/automate-instagram-messages-using-python/">Automatic Instagram Messages</a></td>
+    <td>Send a single message to any number of people where a list of users is provided.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/automatic-birthday-mail-sending-with-python/">Automatic Birthday Mails</a></td>
+    <td>Wish Happy Birthday to your friends at exactly 12 a.m. automatically.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/create-a-screen-recorder-using-python/">Screen Recorder</a></td>
+    <td>Create a screen-recorder using module provided by Python (pyautogui).</td>
+  </tr>
+</table>
+
+### Interview Preparation
+> Here are some resources which can help you to prepare for Python interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/live/dVg0zFhSDhU?si=JJthjTVGfl8V0w3B">Top 15 Python Programming Interview Questions & Answers</a></td>
+    <td>Intellipaat provides a comprehensive video covering the top Python programming interview questions along with detailed explanations and solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/IT9A6ZtR_9s?si=jd3TudBHESvFuza_">Python Interview Question and Answers</a></td>
+    <td>This video by Analytics Vidhya presents common Python programming interview questions along with explanations and code examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/B_17_RORoiI?si=DJyq6cHe1Ac6jq80">Python Programming Interview Questions and Answers</a></td>
+    <td>edureka! offers a video discussing essential Python programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+</table>
 
 ## YouTube Channels
 
@@ -779,6 +882,15 @@ These channels provide excellent resources for learning Python programming, cate
         <td>This Python tutorial for absolute beginners in the Hindi series will focus on teaching you Python concepts from the ground up to an advanced level. This video series starts with Python basics and then moves toward advanced Python. Python concepts are taught in depth with exercises and handwritten notes.
          </td>
       </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0">100 Days of Code - Learn Python</a></td>
+        <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
+         </td>
+      </tr>
 </table>
 
+### Conclusion
 
+Python is an incredibly versatile and powerful language that's perfect for a wide range of applications, from web development and automation to data science and AI. Its simple and readable syntax makes it super beginner-friendly, while also keeping things easy to maintain. With a huge ecosystem of libraries and frameworks like Django and Flask for web development, NumPy and pandas for data analysis, and TensorFlow and PyTorch for machine learning, Python has got you covered no matter what you're working on. Plus, the large and active community means there are tons of tutorials, forums, and documentation to help you out at any level. Whether you're diving into web development, data analysis, or even AI, Python is the go-to tool. It opens up loads of career opportunities in tech, data science, and more. To really get good at Python, practice is key. Engage in coding challenges, contribute to open-source projects, and build your own projects
+
+Never stop learning.
